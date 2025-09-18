@@ -51,7 +51,7 @@ Price = 1000000
 has_good_credit = True
 
 if has_good_credit:
-  down_payment: 0.1 * Price
+  down_payment: 0.1 * Price99
 else:
   down_payment :  0.2 * Price
 # print(f"Down Payment: ${down_payment}")
