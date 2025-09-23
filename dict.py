@@ -41,7 +41,7 @@ student = {
     "score":{
         "chem" : 98,
         "phy" : 97,
-        "math" :95
+        "math" :95,
     }
 }
 print(list(student.values()))# return all values
